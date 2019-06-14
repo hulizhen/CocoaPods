@@ -58,6 +58,8 @@ end
 
 group :debugging do
   gem 'cocoapods_debug'
+  gem 'ruby-debug-ide'
+  gem 'debase'
 
   gem 'rb-fsevent'
   gem 'kicker'
